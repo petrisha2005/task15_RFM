@@ -1,0 +1,19 @@
+Champions:
+- Exclusive offers
+- Loyalty rewards
+- Referral programs
+
+Loyal:
+- Cross-sell premium items
+- Membership upgrades
+- Personalized emails
+
+At Risk:
+- Discount coupons
+- Reminder emails
+- Special deals
+
+Lost:
+- Win-back campaigns
+- Big discounts
+- Feedback surveys
